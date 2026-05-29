@@ -13,9 +13,13 @@ The trajectory of this study synthesizes classical surface theory with modern di
 3. **Advanced References:** John M. Lee’s *Introduction to Smooth Manifolds* and *Introduction to Riemannian Manifolds*, Theodore Frankel’s *The Geometry of Physics*, and Robert Wald’s *General Relativity*.
 
 ## 🗂 Repository Structure
-
-* 📄 **[Differential_Geometry_Syllabus.pdf](Differential_Geometry_Syllabus.pdf):** The formalized, week-by-week directed study syllabus detailing the academic trajectory, weekly benchmarks, and learning outcomes.
-* 📂 **Expository Papers / Notes:** (Coming Soon) A series of detailed expository papers designed to synthesize geometric intuition, formalize curvature computations, and connect differential geometry with modern theoretical physics.
+🗂 Repository Structure
+* 📄 [Differential Geometry Syllabus](Differential_Geometry_Syllabus.pdf) — The formalized, week-by-week directed study syllabus detailing learning outcomes and benchmarks.
+* 📂 Notes (Organized by topic):
+  * *[Chapter 0: Calculus in the Euclidean Space] (In Progress)*
+* 📂 Problem Sets:
+  * *[Problem Set 0: Calculus in the Euclidean Space] (Coming Soon)*
+* 📝 [Expository Paper: Working Title/Topic] — *(Coming Soon)* A research-focused synthesis connecting geometric curvature to modern gauge theories.
 
 ## 🎯 Core Objectives
 
