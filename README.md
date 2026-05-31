@@ -16,8 +16,9 @@ The trajectory of this study synthesizes classical surface theory with modern di
 
 * 📄 [Differential Geometry Syllabus](Differential_Geometry_Syllabus.pdf) — The formalized, week-by-week directed study syllabus detailing learning outcomes and benchmarks.
   <br> 📂 **Notes (Organized by topic):**
-  * 📄 [Chapter 0: Preliminary Concepts/Terminology](Chpt_0.pdf) 📂 **Problem Sets:**
-    * *[Problem Set 0: Calculus in the Euclidean Space] (Coming Soon)*
+  * 📄 [Chapter 0: Preliminary Concepts/Terminology](Chpt_0.pdf)
+  <br>📂 **Problem Sets:**
+  *[Problem Set 0] (Coming Soon)*
 * 📝 [Expository Paper: The Aharonov–Bohm Effect: A Geometric Formulation via Connections and Holonomy] — *(Coming Soon)* A research-focused synthesis connecting geometric curvature to modern gauge theories.
 
 
