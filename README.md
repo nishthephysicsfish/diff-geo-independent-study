@@ -21,6 +21,7 @@ The trajectory of this study synthesizes classical surface theory with modern di
   📂 **Problem Sets:**
   * [ONeill: Section 1.1 Problem Set](ONeill_1.1_ProblemSet.pdf)
   * [ONeill: Section 1.2 Problem Set](ONeill_1.2_ProblemSet.pdf)
+  * [ONeill: Section 1.3 Problem Set](ONeill_1.3_ProblemSet.pdf)
  
 * 📝 [Expository Paper: The Aharonov–Bohm Effect: A Geometric Formulation via Connections and Holonomy] — *(Coming Soon)* A research-focused synthesis connecting geometric curvature to modern gauge theories.
 
